@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/5.jpg</file>
+        <file>images/head.png</file>
+        <file>images/1s.png</file>
+        <file>images/flash.png</file>
+        <file>images/hint.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/suspend.png</file>
+        <file>images/background.png</file>
+        <file>images/sidebar.png</file>
+        <file>images/download.png</file>
+        <file>images/home.png</file>
+        <file>images/run.png</file>
+        <file>images/upload.png</file>
+        <file>images/menu.png</file>
+        <file>images/homebg.png</file>
+        <file>images/column.png</file>
+        <file>images/row.png</file>
+        <file>images/start.png</file>
+        <file>images/twoplayer.png</file>
+    </qresource>
+</RCC>
